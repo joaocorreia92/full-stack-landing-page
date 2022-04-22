@@ -1,2 +1,2 @@
 # full-stack-landing-page
-Landing page with with MySQL DataBase integrated.
+Landing page with MySQL DataBase integrated.
